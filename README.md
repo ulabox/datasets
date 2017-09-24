@@ -23,7 +23,7 @@ The dataset contains the following fields:
 * __customer__: Anonymized customer's id.
 * __order__: Order id, starting from zero.
 * __total_items__ : The number of items purchased in the order.
-* __discount%__ : The percent of total discount received. For instance, if the customer saves €10 in a €100 order (that is, he had to pay €80), this field will contain a 20.
+* __discount%__ : The percent of total discount received. For instance, if the customer saves €20 in a €100 order (that is, he had to pay €80), this field will contain a 20.
 * __weekday__ : Day of the week when the order was paid. 1=Monday, 7=Sunday.
 * __hour__ : The hour of the day the purchase was done. From 00 to 23.
 * __Categories' partials__ : Percent of money spent in each of the 8 website's main categories:
