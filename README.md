@@ -19,7 +19,7 @@ Analysis: [Example analysis in jupyter](https://github.com/ulabox/datasets/blob/
 The __ulabox_orders_with_categories_partials_2017__ dataset includes __30k orders__ from the beginning of 2017. All kind of customers (around 10k) are represented in this dataset: from urban and rural areas, from first-timers to loyal customers.
 
 #### Data dictionary
-The dataset contains the following fields:
+The dataset contains 30k samples with the following features:
 * __customer__: Anonymized customer's id.
 * __order__: Order id, starting from zero.
 * __total_items__ : The number of items purchased in the order.
