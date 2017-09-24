@@ -1,4 +1,4 @@
-"customer", "order", "total_items", "discount%", "weekday", "hour", "Food%", "Fresh%", "Drinks%", "Home%", "Beauty%", "Health%", "Baby%", "Pets%"
+"customer","order","total_items","discount%","weekday","hour","Food%","Fresh%","Drinks%","Home%","Beauty%","Health%","Baby%","Pets%"
 0, 0, 45, 23.03, 4, 13, 9.46, 87.06, 3.48, 0, 0, 0, 0, 0
 0, 1, 38, 1.22, 5, 13, 15.87, 75.8, 6.22, 2.12, 0, 0, 0, 0
 0, 2, 51, 18.08, 4, 13, 16.88, 56.75, 3.37, 16.48, 6.53, 0, 0, 0
