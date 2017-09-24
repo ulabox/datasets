@@ -5,6 +5,8 @@ Thank you for your interest in Ulabox datasets.
 The public datasets in this repository are provided as-is for non-commercial use.
 They contain anonymized but real information from purchases and other processes on Ulabox's website.
 
+If you have any question or issue related to these datasets, please open an Issue here.
+
 ## About Ulabox
 Ulabox is the most successful pure-player online grocery in Spain. It picks up more than €1 million in monthly revenue and asserts a customer satisfaction above 95%. It currently serves Madrid and Barcelona with fresh food and the rest of Spain's peninsula with non perishable items.
 
@@ -12,7 +14,7 @@ Ulabox is the most successful pure-player online grocery in Spain. It picks up m
 ### Ulabox orders with categories' partials 2017
 File: [ulabox_orders_with_categories_partials_2017.csv](https://github.com/ulabox/datasets/blob/master/data/ulabox_orders_with_categories_partials_2017.csv)
 
-The __ulabox_orders_with_partials_2017__ dataset includes __30k orders__ from the beginning of 2017. All kind of customers (around 10k) are represented in this dataset: from urban and rural areas, from first-timers to loyal customers.
+The __ulabox_orders_with_categories_partials_2017__ dataset includes __30k orders__ from the beginning of 2017. All kind of customers (around 10k) are represented in this dataset: from urban and rural areas, from first-timers to loyal customers.
 
 #### Data dictionary
 The dataset contains the following fields:
