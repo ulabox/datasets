@@ -13,6 +13,7 @@ Ulabox is the most successful pure-player online grocery in Spain. It picks up m
 ## Datasets
 ### Ulabox orders with categories' partials 2017
 File: [ulabox_orders_with_categories_partials_2017.csv](https://github.com/ulabox/datasets/blob/master/data/ulabox_orders_with_categories_partials_2017.csv)
+
 Analysis: [Example analysis in jupyter](https://github.com/ulabox/datasets/blob/master/analysis/ulabox_orders_with_categories_partials_2017.ipynb)
 
 The __ulabox_orders_with_categories_partials_2017__ dataset includes __30k orders__ from the beginning of 2017. All kind of customers (around 10k) are represented in this dataset: from urban and rural areas, from first-timers to loyal customers.
@@ -25,7 +26,7 @@ The dataset contains the following fields:
 * __discount%__ : The percent of total discount received. For instance, if the customer saves €10 in a €100 order (that is, he had to pay €80), this field will contain a 20.
 * __weekday__ : Day of the week when the order was paid. 1=Monday, 7=Sunday.
 * __hour__ : The hour of the day the purchase was done. From 00 to 23.
-* __Categories' partials__ : Percent of money spent in each of the 8 website's main categories.
+* __Categories' partials__ : Percent of money spent in each of the 8 website's main categories:
   * __Food%__ : Non perishable food, for example: rice, cooking oil, snacks, cookies, sauces, canned food.
   * __Fresh%__ : Fresh and frozen food, for example: fresh tuna, fruits, frozen pizza, salads, meat.
   * __Drinks%__ : All kind of beverages, like: water, juices, wine, alcoholic drinks, milk, soy drinks.
